@@ -1,0 +1,3 @@
+# Text summarization using T5
+
+T5: Text-to-Text-Transfer-Transformer model proposes reframing all NLP tasks into a unified text-to-text-format where the input and output are always text strings. This formatting makes one T5 model fit for multiple tasks. The T5 model treats a wide variety of many-to-many and many-to-one NLP tasks in a unified manner by encoding the different tasks as text directives in the input stream. This enables a single model to be trained supervised on a wide variety of NLP tasks such as translation, classification,Q&A, summarization and even regression
