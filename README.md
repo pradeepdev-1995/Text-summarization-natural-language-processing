@@ -12,10 +12,11 @@ Extractive text summarization methods function by identifying the important sent
 ## Abstractive text summarization
 Abstractive text summarization methods employ more powerful natural language processing techniques to interpret text and generate new summary text, as opposed to selecting the most representative existing excerpts to perform the summarization.  
 
-Here I am explaining five different approaches for text summarization. Those are  
+Here I am explaining six different approaches for text summarization. Those are  
 
 1 - Natural Language Toolkit(NLTK)  
 2 - Bidirectional Encoder Representations from Transformers(BERT)  
 3 - Transformer pipeline  
 4 - BART(BERT + GPT)  
-5 - Text-To-Text Transfer Transformer(T5)
+5 - Text-To-Text Transfer Transformer(T5)  
+6 - AdaptNLP
