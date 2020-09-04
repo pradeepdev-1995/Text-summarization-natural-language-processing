@@ -19,4 +19,5 @@ Here I am explaining six different approaches for text summarization. Those are
 3 - Transformer pipeline  
 4 - BART(BERT + GPT)  
 5 - Text-To-Text Transfer Transformer(T5)  
-6 - AdaptNLP
+6 - AdaptNLP  
+7 - PEGASUS

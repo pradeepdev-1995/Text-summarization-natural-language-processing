@@ -1,0 +1,3 @@
+# Text summarization using PEGASUS
+
+In “PEGASUS: Pre-training with Extracted Gap-sentences for Abstractive Summarization” (to appear at the 2020 International Conference on Machine Learning), they designed a pre-training self-supervised objective (called gap-sentence generation) for Transformer encoder-decoder models to improve fine-tuning performance on abstractive summarization, achieving state-of-the-art results on 12 diverse summarization datasets
